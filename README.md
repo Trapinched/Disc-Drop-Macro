@@ -16,6 +16,7 @@
 - The Tix output is completely dependent on luck, but, assuming no interruptions, it averages between 60k and 70k Tix a day, burning through anywhere between 40k and 50k Loomicoins in the process.
 - The algorithm for finding moves isn't anything special. It doesn't attempt to find the "best" move, rather it just plays the first one it sees.
 - There is no auto-rejoin feature, so you have to manually check from time to time if you got disconnected. There is also no multi-monitor support, I have no idea how this macro behaves when used in such an environment.
+- It goes without saying that this program does not collect or send any data, make any changes to your system or connect to the internet. I have no interests other than showcasing my work and building a portfolio.
 
 ## Download
 - In the Releases section, you can download the .exe file and the source code. No installation is required, just launch the .exe file and you're good to go. I unfortunately don't have the possibility to get my program signed, so Windows Defender will flag it as dangerous. You can bypass this by clicking More information -> Run anyway.
